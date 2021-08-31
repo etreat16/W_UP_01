@@ -65,7 +65,10 @@ On average the skilled position players did about 50 while the line players did 
 t.test(pushups~position,data=mydata)
 ```
 
+The T test shows that the P value is 0.0000094 which is less the 0.05 so we reject the null hypothesis. 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion, skills players were able to do much more push ups then line players. As you can see skills players did a max amount of pushups of 108 where as line players did 34.  
 
